@@ -1,0 +1,99 @@
+   <arTa other="Druva" n="A1.4.24 A6.2.177"/>
+   <arTa other="DvANkza" n="A2.1.42"/>
+   <arTa other="ESvarya" n="A5.2.126 A6.2.18 A6.2.19 A6.2.20"/>
+   <arTa other="Gawa" n="A5.2.35 A5.2.35"/>
+   <arTa other="ISvara" n="A1.4.97 A1.4.98 A2.3.9 A5.1.42 A5.1.42 A5.1.42 A5.1.42"/>
+   <arTa other="Ipsita" n="A1.4.27 A1.4.36"/>
+   <arTa other="IzadasamApti" n="A5.3.67 A5.3.67 A5.3.68"/>
+   <arTa other="Izat" n="A6.3.105 A6.3.106"/>
+   <arTa other="KalarTa" n="A2.3.69 A3.4.70 A3.4.70"/>
+   <arTa other="Opamya" n="A6.2.113 A6.2.114 A6.2.115"/>
+   <arTa other="OttarADarya" n="A3.3.42"/>
+   <arTa other="Pala" n="A4.3.163 A4.3.164 A4.3.166 A4.3.167"/>
+   <arTa other="SAlA" n="A2.4.24 A2.4.25"/>
+   <arTa other="SIla" n="A4.4.61 A4.4.62"/>
+   <arTa other="Sabda" n="A3.3.33 A4.3.64 A6.2.80 A6.2.80"/>
+   <arTa other="Sabdakarman" n="A1.3.34"/>
+   <arTa other="SabdaprAdurBAva" n="A2.1.6"/>
+   <arTa other="SabdasaYjYA" n="A7.3.67 A8.3.86"/>
+   <arTa other="Sakala" n="A8.2.59"/>
+   <arTa other="Sakti" n="A3.2.129 A3.2.54 A3.3.172"/>
+   <arTa other="Sakuni" n="A2.4.12 A6.1.150"/>
+   <arTa other="Sakya" n="A4.4.91 A5.1.93 A5.1.93 A5.1.93 A6.1.81 A7.3.68"/>
+   <arTa other="SapaTa" n="A5.4.66"/>
+   <arTa other="SarIrEkadeSa" n="A8.2.12"/>
+   <arTa other="SarIra" n="A3.3.41"/>
+   <arTa other="SarIra-avayava" n="A5.1.6"/>
+   <arTa other="SarIra.avayava" n="A4.3.55"/>
+   <arTa other="Sata" n="A5.1.21 A5.2.45 A5.2.46"/>
+   <arTa other="Satasahasra" n="A5.2.45 A5.2.46"/>
+   <arTa other="Sayita" n="A4.4.108 A4.4.109"/>
+   <arTa other="Sayitf" n="A4.2.15"/>
+   <arTa other="Silpa" n="A4.4.55 A4.4.56"/>
+   <arTa other="Silpin" n="A3.1.145 A3.1.146 A3.1.147 A3.2.55 A3.2.55 A6.2.62 A6.2.63 A6.2.68 A6.2.76"/>
+   <arTa other="SrARA" n="A4.1.42"/>
+   <arTa other="SrAdDa" n="A4.3.12"/>
+   <arTa other="SradDApratIGAta" n="A1.4.66"/>
+   <arTa other="Sulka" n="A5.1.47 A5.1.48 A5.1.48 A5.1.49"/>
+   <arTa other="Svan" n="A4.2.96"/>
+   <arTa other="Una" n="A1.1.30 A2.1.31 A6.2.153"/>
+   <arTa other="UrDva-karmaRi" n="A1.3.24"/>
+   <arTa other="UrDvamOhUrtika" n="A3.3.164 A3.3.165"/>
+   <arTa other="aBUtatadBAva" n="A3.1.12 A3.1.12 A3.1.13 A3.1.13 A3.2.56 A3.2.56 A3.2.57 A3.4.62 A5.4.50 A5.4.51 A5.4.52 A5.4.53"/>
+   <arTa other="aBijYA" n="A3.2.112 A3.2.113 A3.2.114"/>
+   <arTa other="aBijana" n="A4.3.90 A4.3.91 A4.3.92 A4.3.93 A4.3.93 A4.3.94 A4.3.94 A4.3.94 A4.3.94"/>
+   <arTa other="aBinizkrAmati" n="A4.3.86"/>
+   <arTa other="aBitoBAvin" n="A6.2.182"/>
+   <arTa other="aBiviDi" n="A2.1.13 A3.3.44 A5.4.53"/>
+   <arTa other="aBivyakti" n="A8.1.15"/>
+   <arTa other="aBra" n="A3.3.37"/>
+   <arTa other="aByAdAna" n="A8.2.87"/>
+   <arTa other="aByAsa" n="A1.3.71"/>
+   <arTa other="aDIzwa" n="A3.3.161 A3.3.162 A3.3.166 A3.3.167 A5.1.80 A5.1.85 A5.1.86 A5.1.87 A5.1.88 A5.1.88 A5.1.89 A5.1.91 A5.1.92"/>
+   <arTa other="aDfzwa" n="A5.2.20"/>
+   <arTa other="aDikArTa" n="A2.1.33"/>
+   <arTa other="aDika" n="A1.4.87 A2.3.9 A5.2.45 A5.2.45 A5.2.46 A6.3.79"/>
+   <arTa other="aDikaraRa" n="A4.4.70 A4.4.74 A5.1.45 A5.1.96 A5.2.13 A5.2.92 A5.4.21"/>
+   <arTa other="aDikaraRavicAla" n="A3.4.62 A5.3.43"/>
+   <arTa other="aDikftya_kfta" n="A4.3.87 A4.3.88"/>
+   <arTa other="aDva" n="A2.3.6 A2.3.7"/>
+   <arTa other="aDvan" n="A2.3.12 A2.3.5"/>
+   <arTa other="aDvaryukratu" n="A2.4.4"/>
+   <arTa other="aDyAya" n="A4.3.69 A4.3.69 A5.2.60 A5.2.60 A5.2.61 A5.2.62"/>
+   <arTa other="aDyAyin" n="A4.4.71"/>
+   <arTa other="aDyarTa" n="A8.3.51 A8.3.51"/>
+   <arTa other="aDyayana" n="A2.4.5 A2.4.5 A5.1.58 A7.2.26"/>
+   <arTa other="aDyayanavfttakarma" n="A4.4.63 A4.4.64"/>
+   <arTa other="aMSa" n="A5.1.56"/>
+   <arTa other="aNga" n="A2.3.20 A3.3.81 A6.2.70"/>
+   <arTa other="aNgavikAra" n="A2.3.20"/>
+   <arTa other="aNka" n="A4.3.127 A4.3.128"/>
+   <arTa other="aSakti" n="A6.2.157"/>
+   <arTa other="acirApahfta" n="A5.2.70 A5.2.70"/>
+   <arTa other="acirasampatti" n="A6.2.56"/>
+   <arTa other="acitta" n="A4.2.47"/>
+   <arTa other="adUra" n="A5.3.35"/>
+   <arTa other="adUraBava" n="A4.2.70"/>
+   <arTa other="adeSa" n="A4.4.71"/>
+   <arTa other="agArEkadeSa" n="A3.3.79"/>
+   <arTa other="agni" n="A3.1.131 A3.1.131 A3.1.131 A3.1.131 A3.1.132 A3.1.132"/>
+   <arTa other="agnyAKyA" n="A3.2.92"/>
+   <arTa other="agra" n="A5.4.93"/>
+   <arTa other="agragAmin" n="A8.3.92"/>
+   <arTa other="ahan" n="A4.4.130 A5.3.22 A5.3.22 A5.3.22 A5.3.22 A5.3.22 A5.3.22"/>
+   <arTa other="ahan.avayava" n="A2.1.45"/>
+   <arTa other="ahar.avayava" n="A6.2.33"/>
+   <arTa other="ahorAtra" n="A3.3.137 A3.3.137 A3.3.138"/>
+   <arTa other="ajYAta" n="A5.3.73"/>
+   <arTa other="akAla" n="A4.4.71"/>
+   <arTa other="akArya" n="A5.2.20"/>
+   <arTa other="akevala" n="A6.2.96"/>
+   <arTa other="akfcCra" n="A3.3.126 A3.3.126 A3.3.127 A3.3.127 A3.3.127 A3.3.127 A3.3.128 A3.3.128 A3.3.129 A3.3.129 A3.3.130 A3.3.130 A8.1.13"/>
+   <arTa other="akftrimA" n="A4.1.42"/>
+   <arTa other="alaMyoga" n="A5.1.101 A5.1.101 A5.1.102 A5.1.103"/>
+   <arTa other="alaNgAmin" n="A5.2.15 A5.2.15 A5.2.16 A5.2.17"/>
+   <arTa other="alaNkAra" n="A4.2.96 A4.3.65"/>
+   <arTa other="alam" n="A6.2.155"/>
+   <arTa other="alamarTa" n="A3.4.66"/>
+   <arTa other="alpa" n="A5.2.71 A5.3.85 A5.4.136 A5.4.42"/>
+   <arTa other="amanuzya" n="A4.2.144"/>
