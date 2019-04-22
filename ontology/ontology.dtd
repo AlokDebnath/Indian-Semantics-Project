@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT root (object, action, modifier, other)>
+<!ELEMENT object (perceivable, abstract)>
+<!ELEMENT action (word)>
+<!ELEMENT modifier (word)>
+<!ELEMENT other (word)>
+<!ELEMENT perceivable (word)>
+<!ELEMENT abstract (word)>
+<!ELEMENT word (form, meaning)>
+<!ELEMENT form (#PCDATA)>
+<!ELEMENT meaning (#PCDATA)>
