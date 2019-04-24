@@ -1,6 +1,6 @@
 import os
 
-g = open('README.txt', 'w+')
+g = open('raw_meanings.txt', 'w+')
 cnt = 0
 tot = len(os.listdir('./txt/'))
 for file in os.listdir('./txt/'):
